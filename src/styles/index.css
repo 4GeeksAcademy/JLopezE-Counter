@@ -10,3 +10,29 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.reloj {
+    color: white;
+}
+
+.cajaCompleta {
+    background: black;
+    border: 2px solid black;
+    width: 300px;
+}
+.reloj{
+    font-size: 30px;
+}
+
+.caja {
+    background: rgb(213, 213, 213, .20);
+    color: white;
+    width: 110px;
+    text-align: center;
+    align-items: center;
+}
+
+span {
+
+    font-size: 30px;
+}
